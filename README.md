@@ -16,8 +16,5 @@ Clone the `differential_drive_navigation` package into your `catkin_ws/src` fold
 
 + Launch the `diff_drive_navigation.launch` file using `roslaunch diff_drive_navigation diff_drive_navigation.launch` command.
 
-![Image of tf1](https://github.com/nerellasureshkumar7/differential_drive_navigation/blob/master/diff_drive_navigation/tf/rosgraph.png/tf/rosgraph.png)
-
-
-![Image of tf2](https://github.com/nerellasureshkumar7/differential_drive_navigation/blob/master/diff_drive_navigation/tf/rosgraph.png/tf/rosgraph1.png)
+![Image of nodegraph](https://github.com/nerellasureshkumar7/differential_drive_navigation/blob/master/diff_drive_navigation/tf/rosgraph1.png)
 
